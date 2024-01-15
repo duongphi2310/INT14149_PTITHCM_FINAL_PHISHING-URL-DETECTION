@@ -1,0 +1,15 @@
+{
+  "name": "PHISHING URL DETECTION",
+  "description": "DỰ ĐOÁN XEM WEBSITE LÀ HỢP PHÁP HAY ĐÁNG NGỜ",
+  "permissions": ["tabs"],
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "hireswhitehat_chkp.png"
+  },
+  "content_security_policy": {
+    "script-src": "self",
+    "object-src": "self"
+  }
+}

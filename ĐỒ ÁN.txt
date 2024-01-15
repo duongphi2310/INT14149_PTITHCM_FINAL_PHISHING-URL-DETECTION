@@ -1,0 +1,8 @@
+Viết tiện ích mở rộng (Extensions) cài đặt trên trình duyệt web.
+Nội dung:
++ Tìm hiểu:
+   - Dataset: http://openphish.com
+   - Tìm hiểu 1 mô hình học máy, ví dụ: RNN, DT.
++ Cách thực hiện:
+   - Huấn luyện bộ dữ liệu trên bằng mô hình học máy, xuất ra 1 file.
+   - Nhúng dữ liệu (URL) vào mô hình đã huấn luyện và cho ra kết quả.
